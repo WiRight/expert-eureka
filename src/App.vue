@@ -12,6 +12,8 @@ import HelloWorld from './components/HelloWorld.vue'
   </div>
 
   <h1>EmitLab ExArea</h1>
+  
+  <p>New Update</p>
 </template>
 §
 <style scoped>
