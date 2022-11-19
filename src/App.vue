@@ -6,16 +6,14 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+    <a href="https://emitlab.ru" target="_blank">
+      <img src="./assets/logo.svg" class="logo" alt="Vite logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
-</template>
 
+  <h1>EmitLab ExArea</h1>
+</template>
+§
 <style scoped>
 .logo {
   height: 6em;
